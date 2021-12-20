@@ -1,5 +1,8 @@
 # HUDK4050-EDM-Portfolio
 
+**Course:** HUDK4050
+**Author:** Yutong Shen
+
 ### Part 1 - Reflective Essay
 
 At the end of this semester, I wrote a short reflective essay on my takeaways, reflections, and future plans.
