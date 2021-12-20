@@ -1,6 +1,7 @@
 # HUDK4050-EDM-Portfolio
 
 **Course:** HUDK4050
+
 **Author:** Yutong Shen
 
 ### Part 1 - Reflective Essay
