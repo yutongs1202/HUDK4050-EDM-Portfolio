@@ -12,7 +12,7 @@ At the end of this semester, I wrote a short reflective essay on my takeaways, r
 
 ### Part2 - ICES
 
-During the semester, I completed 8 individual coding exercises. I learned about data manipulation techniques and various educational data mining methods, including Linear Regression, Logistic Regression, Decision Tree, Clustering, PCA, Diagnostic Metrics, and Social Network Analysis etc.
+During the semester, I completed 8 individual coding exercises. I learned about data manipulation techniques and various educational data mining methods, including Regression, Decision Tree, Clustering, PCA, Diagnostic Metrics, and Social Network Analysis etc.
 
 
 * [ICE0 - Getting Started with EDM in Python](https://github.com/yutongs1202/HUDK4050-EDM-Portfolio/blob/main/ICEs/ICE0.ipynb)
