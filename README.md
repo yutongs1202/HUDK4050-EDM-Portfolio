@@ -29,10 +29,10 @@ During the semester, I completed 8 individual coding exercises. I learned about 
 
 The 4 Analysis Challenge Assignments helped me practice and apply what I have learned in class to solve real-world problems. In ACA1, I used data masking to access the specific data elements that are needed. In ACA2, I adopted logistic regression and decision tree to build the classifier for prediction. In ACA3, I tried PCA and Silhouette Coefficient to reduce dimension and identify clusters. In ACA4, I applied social network analysis to identify and analyze a network.
 
-* [ACA1](https://github.com/yutongs1202/HUDK4050-EDM-Portfolio/blob/main/ACAs/ACA1.ipynb)
-* [ACA2](https://github.com/yutongs1202/HUDK4050-EDM-Portfolio/blob/main/ACAs/ACA2.ipynb)
-* [ACA3](https://github.com/yutongs1202/HUDK4050-EDM-Portfolio/blob/main/ACAs/ACA3.ipynb)
-* [ACA4](https://github.com/yutongs1202/HUDK4050-EDM-Portfolio/blob/main/ACAs/ACA4.ipynb)
+* [ACA1 - Creating School List Meeting Alex's Criteria](https://github.com/yutongs1202/HUDK4050-EDM-Portfolio/blob/main/ACAs/ACA1.ipynb)
+* [ACA2 - On Task Behavior Prediction](https://github.com/yutongs1202/HUDK4050-EDM-Portfolio/blob/main/ACAs/ACA2.ipynb)
+* [ACA3 - College Clustering](https://github.com/yutongs1202/HUDK4050-EDM-Portfolio/blob/main/ACAs/ACA3.ipynb)
+* [ACA4 - Social Network Analysis](https://github.com/yutongs1202/HUDK4050-EDM-Portfolio/blob/main/ACAs/ACA4.ipynb)
 
 ### Part 4 - Creative EDM Assignment
 
